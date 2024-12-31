@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in C programming. The `bug.c` file contains the erroneous code, which attempts to access an array element beyond its bounds. The `bugSolution.c` file provides the corrected code with an explanation of the fix. This is a classic example of how array index errors can lead to unexpected behavior or crashes.
